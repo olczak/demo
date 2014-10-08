@@ -30,4 +30,4 @@ $smarty->assign("option_selected", "NE");
 $smarty->display('index.tpl');
 
 
-// zmiana#1 - poprawione + pass
+// zmiana#1 - poprawione + pass test2
