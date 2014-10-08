@@ -28,3 +28,6 @@ $smarty->assign("option_output", array("New York","Nebraska","Kansas","Iowa","Ok
 $smarty->assign("option_selected", "NE");
 
 $smarty->display('index.tpl');
+
+
+// zmiana#1
